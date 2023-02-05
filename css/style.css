@@ -1,0 +1,39 @@
+.back-img{
+
+    background-image: url("../images/banner.png");
+background-repeat: no-repeat;
+   height: 75vh;
+ 
+   
+}
+.back-img1{
+
+    background-image: url("../images/slider-1.jpg");
+    background-color:  rgba(17, 17, 17, 0.8);
+    background-blend-mode:darken;
+    height: 75vh;
+}
+.back-img2{
+
+    background-image: url("../images/slider-2.jpg");
+    height: 75vh;
+}
+.back-img3{
+
+    background-image: url("../images/slider-2.jpg");
+    height: 75vh;
+}
+.input1{
+
+    display: block;
+    width: 100%;
+    background: #F3F3F3;
+    font-family: Montserrat-Bold;
+    font-size: 15px;
+    line-height: 1.5;
+    color: #666;
+    height: 50px;
+    border-radius: 10px;
+    padding: 0 30px;
+
+}
